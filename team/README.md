@@ -1,0 +1,2 @@
+- Create a new Calculator service, calculator.ol, that offers an operation sum for getting the sum of some numbers.
+- In server.ol, instead of computing the total age of the team locally, invoke the external service Calculator.
